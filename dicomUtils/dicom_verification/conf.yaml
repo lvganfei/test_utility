@@ -1,0 +1,192 @@
+cerebral:
+  PatientName:
+    type_photometricinterpretation: 'ALL'               #字段需要验证的类型‘ALL’、‘RGB’、‘MOMO2’三类
+    type_seriesdescription: 'ALL'                       #字段在cpr/lumen或者VR上是否需要验证：‘ALL’、‘VR’、‘CPR/LUMEN’(CPR/LUMEN包含MIP、原图、)
+    value: 'True'                                       #“True”代表验证字段内容是否为空；如要需要验证具体内容请写详细内容
+    value_decimal: NO                                   #验证小数点后多少位，需要多少位写多少位，不需要验证不用写这条
+
+  PatientID:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  PatientBirthDate:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  PatientSex:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  StudyDate:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  StudyTime:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  StudyID:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  StudyInstanceUID:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  SeriesInstanceUID:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  SOPClassUID:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  SOPInstanceUID:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  SeriesNumber:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  SamplesPerPixel:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  WindowCenter:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  WindowWidth:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  AccessionNumber:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  Modality:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  Manufacturer:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  InstanceNumber:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  ImagePositionPatient:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  ImageOrientationPatient:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  PhotometricInterpretation:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  Rows:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  Columns:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  PixelSpacing:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  BitsAllocated:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  BitsStored:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  HighBit:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  PixelRepresentation:
+    type_photometricinterpretation: 'ALL'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  PlanarConfiguration:
+    type_photometricinterpretation: 'RGB'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  RescaleIntercept:
+    type_photometricinterpretation: 'MOMO2'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO
+
+  RescaleSlope:
+    type_photometricinterpretation: 'MOMO2'
+    type_seriesdescription: 'ALL'
+    value: 'True'
+    value_decimal: NO

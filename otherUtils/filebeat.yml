@@ -1,0 +1,85 @@
+filebeat.inputs:
+- type: log
+  enabled: true
+  paths:
+    - "/data1/log/plt-universe-*/info.log"
+  fields:
+    type: universe-log 
+  include_lines: ['status=fail','ERROR ', 'WARN ']
+ # exclude_lines: ['INFO']
+  harvester_buffer_size: 16384000
+  scan_frequency: 10m
+  multiline:
+        pattern: '^[[:space:]]'
+        negate:  false
+        match:   after
+- type: log
+  enabled: true
+  paths:
+    - "/data1/log/plt-coronary-srv/*.error.log.%{+yyyy-MM-dd}"
+  fields:
+    type: coronary-log 
+  include_lines: [' ERROR ','^Traceback ']
+ # exclude_lines: ['INFO']
+  harvester_buffer_size: 1638400
+  scan_frequency: 10m
+  multiline:
+        pattern: '^[[:space:]]'
+        negate:  false
+        match:   after
+- type: log
+  enabled: true
+  paths:
+    - "/data1/log/plt-cerebral-srv/*.error.log.%{+yyyy-MM-dd}"
+  fields:
+    type: cerebral-log 
+  include_lines: [' ERROR ','^Traceback ']
+ # exclude_lines: ['INFO']
+  harvester_buffer_size: 1638400
+  scan_frequency: 10m
+  multiline:
+        pattern: '^[[:space:]]'
+        negate:  false
+        match:   after
+- type: log
+  enabled: true
+  paths:
+    - "/data1/log/plt-thoracic-srv/*.error.log.%{+yyyy-MM-dd}"
+  fields:
+    type: thoracic-log 
+  include_lines: [' ERROR ','^Traceback ']
+ # exclude_lines: ['INFO']
+  harvester_buffer_size: 1638400
+  scan_frequency: 10m
+  multiline:
+        pattern: '^[[:space:]]'
+        negate:  false
+        match:   after
+
+filebeat.config:
+  modules:
+    path: /data1/filebeat/filebeat.docker.yml
+    reload.enabled: true
+
+
+
+#output.file:
+#  path: "/data1/filebeat"
+#  enabled: true
+#  filename: "output_file"
+#  rotate_every_kb: 10000
+#  number_of_files: 20
+#  permissions: 0777
+setup.template.enabled: false
+setup.template.name: "10.15.10.216-longrun-monitor"
+setup.template.pattern: "10.15.10.216-longrun-monitor-*"
+
+output.elasticsearch:
+  hosts: ["opses01.democompany.net:9200"]
+  allow_older_versions: true
+  index: "10.15.10.216-longrun-monitor"
+  indices:
+    - index: "10.15.10.216-longrun-monitor-%{+yyyy-MM-dd}"
+#output.console:
+#  pretty: true
+#  enable: true

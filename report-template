@@ -1,0 +1,36 @@
+*********************press-test-report-20191127*********************
+jenkins run config:
+xxxx
+xxxx
+
+*********************coronary-result**********************************
+total cases count: pass/xxxxxx not match 
+patient information : pass/xxxxx not match
+alg state: pass/xxxx not correct
+alg time recorded to (coronary-20191127-algtime)
+
+*********************cerebral-result**********************************
+total cases count: pass/xxxxxx not match 
+patient information : pass/xxxxx not match
+alg state: pass/xxxx not correct
+alg time recorded to (coronary-20191127-algtime)
+
+
+*********************Lung-result**********************************
+total cases count: pass/xxxxxx not match 
+patient information : pass/xxxxx not match
+alg state: pass/xxxx not correct
+alg time recorded to (coronary-20191127-algtime)
+
+
+*********************platform-result**********************************
+total cases count: pass/xxxxxx not match 
+apply_record : pass/xxxxx not match
+series record: pass/xxxx not match
+study record: pass/xxxx not match
+
+
+*********************total-result**********************************
+total test time: xxxxx
+
+

@@ -1,0 +1,45 @@
+syntax = "proto2";
+
+message Request {
+
+    enum BizType {
+        CPR = 0;
+        MPR = 1;
+        CLPR = 2;
+        VR = 3;
+        SMPR = 4;
+        SP = 5;
+        SHR = 6;
+    }
+
+    required uint32 Seq = 1;
+    required uint32 Biz = 2 [default=0];
+    required string DataPath = 3;
+    required BizType Type = 4;
+    required bool UpdateRender = 5 [default=true];
+    required string Parameters = 6;
+    optional bool replaceable = 7 [default = true];
+    optional bool debug = 8 [default = false];
+}
+
+message DicomImage {
+    required uint32 Seq = 1;
+    required uint32 Biz = 2 [default=0];
+    repeated float ImageOrientationPatient = 3;
+    optional string PhotometricInterpretation = 4;
+    optional uint32 Rows = 5;
+    optional uint32 Columns = 6;
+    optional uint32 PlanarConfiguration = 7 [default = 0];
+    optional uint32 PixelRepresentation = 8 [default = 0];
+    optional float RescaleIntercept = 9 [default = 0];
+    optional float RescaleSlope = 10 [default = 1];
+    optional string TransferSyntaxUID = 11;
+    repeated float PixelSpacing = 12;
+    optional bytes PixelData = 13;
+    optional int32 WindowWidth = 14 [default = 0];
+    optional int32 WindowCenter = 15 [default = 0];
+    optional string AddInformation = 16;
+    optional bool replaceable = 17 [default = true];
+    optional string StrPixelData = 18;
+}
+

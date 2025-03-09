@@ -1,0 +1,41 @@
+/**
+ *
+ */
+
+syntax = "proto3";
+
+option optimize_for = SPEED;
+
+package algorithm_engineering.beggar_algorithm_service_system.algorithm_service_scheduling_kernel;
+
+message Error {
+  Domain domain = 1;
+
+  enum Domain {
+    DOMAIN_NONE = 0;
+
+    DOMAIN_UNKNOWN = 1;
+
+    DOMAIN_USER = 2;
+
+    DOMAIN_SYSTEM = 3;
+  }
+
+  Code code = 2;
+
+  enum Code {
+    CODE_NONE = 0;
+
+    CODE_UNKNOWN = 1;
+
+    CODE_VALUE_ERROR = 2;
+
+    CODE_RUNTIME_ERROR = 3;
+
+    CODE_IO_ERROR = 4;
+
+    CODE_TYPE_ERROR = 5;
+  }
+
+  string message_ = 3;
+}

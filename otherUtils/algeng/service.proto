@@ -1,0 +1,262 @@
+/**
+ *
+ */
+
+syntax = "proto3";
+
+option optimize_for = SPEED;
+
+package algorithm_engineering.beggar_algorithm_service_system.algorithm_service_scheduling_kernel;
+
+import "error.proto";
+
+service Service {
+  rpc GetState(GetStateRequest) returns (GetStateResponse);
+
+  rpc ConnectState(ConnectStateRequest) returns (stream ConnectStateResponse);
+
+  rpc GetNumberOfGPUs(GetNumberOfGPUsRequest) returns (GetNumberOfGPUsResponse);
+
+  rpc ConnectNumberOfGPUs(ConnectNumberOfGPUsRequest) returns (stream ConnectNumberOfGPUsResponse);
+
+  rpc GetTaskQueueSize(GetTaskQueueSizeRequest) returns (GetTaskQueueSizeResponse);
+
+  rpc ConnectTaskQueueSize(ConnectTaskQueueSizeRequest) returns (stream ConnectTaskQueueSizeResponse);
+
+  rpc GetTaskProgress(GetTaskProgressRequest) returns (GetTaskProgressResponse);
+
+  rpc ConnectTaskProgress(ConnectTaskProgressRequest) returns (stream ConnectTaskProgressResponse);
+
+  rpc ConnectAllTaskProgress(ConnectAllTaskProgressRequest) returns (stream ConnectAllTaskProgressResponse);
+
+  rpc GetTaskPriority(GetTaskPriorityRequest) returns (GetTaskPriorityResponse);
+
+  rpc SetTaskPriority(SetTaskPriorityRequest) returns (SetTaskPriorityResponse);
+
+  rpc GetTaskState(GetTaskStateRequest) returns (GetTaskStateResponse);
+
+  rpc ConnectTaskState(ConnectTaskStateRequest) returns (stream ConnectTaskStateResponse);
+
+  rpc ConnectAllTaskState(ConnectAllTaskStateRequest) returns (stream ConnectAllTaskStateResponse);
+
+  rpc RevokeTask(RevokeTaskRequest) returns (RevokeTaskResponse);
+
+  rpc KillTask(KillTaskRequest) returns (KillTaskResponse);
+
+  rpc CommitTask(CommitTaskRequest) returns (CommitTaskResponse);
+
+  rpc Suicide(SuicideRequest) returns (SuicideResponse);
+}
+
+message GetStateRequest {}
+
+message GetStateResponse {
+  optional Error error = 1;
+
+  State state = 2;
+}
+
+message ConnectStateRequest {}
+
+message ConnectStateResponse {
+  State state = 1;
+}
+
+enum State {
+  STATE_NONE = 0;
+
+  STATE_PREPARING = 1;
+
+  STATE_IDLE = 2;
+
+  STATE_BUSY = 3;
+
+  STATE_ABNORMAL = 4;
+}
+
+message GetNumberOfGPUsRequest {}
+
+message GetNumberOfGPUsResponse{
+  optional Error error = 1;
+
+  uint32 n_gpus = 2;
+
+  uint32 n_idle_gpus = 3;
+}
+
+message ConnectNumberOfGPUsRequest {}
+
+message ConnectNumberOfGPUsResponse{
+  uint32 n_gpus = 1;
+
+  uint32 n_idle_gpus = 2;
+}
+
+message GetTaskQueueSizeRequest {
+  DeviceType device_type = 1;
+}
+
+message GetTaskQueueSizeResponse{
+  optional Error error = 1;
+
+  uint32 queue_size = 2;
+}
+
+message ConnectTaskQueueSizeRequest {
+  DeviceType device_type = 1;
+}
+
+message ConnectTaskQueueSizeResponse{
+  uint32 queue_size = 1;
+}
+
+enum DeviceType {
+  DEVICE_TYPE_NONE = 0;
+
+  DEVICE_TYPE_CPU = 1;
+
+  DEVICE_TYPE_CUDA = 2;
+}
+
+message GetTaskPriorityRequest {
+  string task_id = 1;
+}
+
+message GetTaskPriorityResponse {
+  optional Error error = 1;
+
+  uint32 priority = 2;
+}
+
+message SetTaskPriorityRequest {
+  string task_id = 1;
+
+  uint32 new_priority = 2;
+
+  optional bool preposed = 3;
+}
+
+message SetTaskPriorityResponse {
+  optional Error error = 1;
+
+  bool ok = 2;
+}
+
+message GetTaskProgressRequest {
+  string task_id = 1;
+}
+
+message GetTaskProgressResponse {
+  optional Error error = 1;
+
+  float progress = 2;
+}
+
+
+message ConnectTaskProgressRequest {
+  string task_id = 1;
+}
+
+message ConnectTaskProgressResponse {
+  float progress = 1;
+}
+
+message ConnectAllTaskProgressRequest {}
+
+message ConnectAllTaskProgressResponse {
+  string task_id = 1;
+
+  float progress = 2;
+}
+
+message GetTaskStateRequest {
+  string task_id = 1;
+}
+
+message GetTaskStateResponse {
+  optional Error error = 1;
+
+  TaskState state = 2;
+}
+
+message ConnectTaskStateRequest {
+  string task_id = 1;
+}
+
+message ConnectTaskStateResponse {
+  TaskState state = 1;
+}
+
+message ConnectAllTaskStateRequest {}
+
+message ConnectAllTaskStateResponse {
+  string task_id = 1;
+
+  TaskState state = 2;
+}
+
+enum TaskState {
+  TASK_STATE_NONE = 0;
+
+  TASK_STATE_QUEUING = 1;
+
+  TASK_STATE_DOING = 2;
+
+  TASK_STATE_DONE = 3;
+
+  TASK_STATE_CANCELLED = 4;
+
+  TASK_STATE_ABORT = 5;
+}
+
+message RevokeTaskRequest {
+  string task_id = 1;
+}
+
+message RevokeTaskResponse {
+  optional Error error = 1;
+
+  bool ok = 2;
+}
+
+message KillTaskRequest {
+  string task_id = 1;
+}
+
+message KillTaskResponse {
+  optional Error error = 1;
+
+  bool ok = 2;
+}
+
+message CommitTaskRequest{
+  string case_id = 1;
+
+  string alg_id = 2;
+
+  map<string, string> map_dependent_alg_id_to_dependent_case_id = 3;
+
+  optional string running_mode = 4;
+
+  optional string config = 5;
+
+  optional bool use_cuda = 6;
+
+  optional uint32 timeout = 7;
+
+  optional uint32 priority = 8;
+
+  optional bool preposed = 9;
+}
+
+message CommitTaskResponse{
+  optional Error error = 1;
+
+  string task_id = 2;
+}
+
+message SuicideRequest{}
+
+message SuicideResponse{
+  optional Error error = 1;
+}

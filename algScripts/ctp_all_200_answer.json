@@ -1,0 +1,1802 @@
+[{
+   "patient_id": "1865353",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 380,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "0005685642",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "0001395602",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 460,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 660,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "06541842",
+   "core": 0,
+   "penumbra": 6,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 13,
+   "tdc_vein_peak": 350,
+   "tdc_vein_time": 21
+},
+{
+   "patient_id": "QG00055717",
+   "core": 0,
+   "penumbra": 200,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "0009095934",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 180,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 400,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "06492644",
+   "core": 4,
+   "penumbra": 189,
+   "tdc_artery_peak": 120,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 380,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "QG00056697",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "QG00056779",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "1658802",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 35,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 31
+},
+{
+   "patient_id": "K00932348",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "0002720321",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 550,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 850,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "QG00057533",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "K00882053",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 580,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "06239047",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 500,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "0007879028",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "0001744805",
+   "core": 0,
+   "penumbra": 270,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 50,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "0000304847",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 600,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "0009065600",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 480,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 720,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0007411236",
+   "core": 0,
+   "penumbra": 93,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "0009084051",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "M01513211",
+   "core": 0,
+   "penumbra": 19,
+   "tdc_artery_peak": 440,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "0001945496",
+   "core": 0,
+   "penumbra": 13,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 460,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "0007946546",
+   "core": 0,
+   "penumbra": 5,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 480,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "V17593952",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "P08693835",
+   "core": 0,
+   "penumbra": 105,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 420,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0009089762",
+   "core": 22,
+   "penumbra": 65,
+   "tdc_artery_peak": 160,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 420,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "K04419066",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 460,
+   "tdc_vein_time": 32
+},
+{
+   "patient_id": "0009057884",
+   "core": 233,
+   "penumbra": 292,
+   "tdc_artery_peak": 160,
+   "tdc_artery_time": 17,
+   "tdc_vein_peak": 400,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "2324353",
+   "core": 0,
+   "penumbra": 60,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 460,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "05143379",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 180,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 400,
+   "tdc_vein_time": 30
+},
+{
+   "patient_id": "0009064000",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "0009064069",
+   "core": 7,
+   "penumbra": 153,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 420,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "0002598946",
+   "core": 0,
+   "penumbra": 42,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 480,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "QG00057354",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 420,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "782251",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0000780073",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "0000475403",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "5002623791",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "06544795",
+   "core": 0,
+   "penumbra": 4,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0009084146",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 580,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "902518",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 460,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 720,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "0008806983",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 480,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "0007400446",
+   "core": 21,
+   "penumbra": 82,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "06537168",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 620,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "K09262707",
+   "core": 6,
+   "penumbra": 17,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 360,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "0008274572",
+   "core": 20,
+   "penumbra": 79,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 30
+},
+{
+   "patient_id": "QG00057444",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 550,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 800,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "0009097205",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0009092567",
+   "core": 167,
+   "penumbra": 146,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0003357003",
+   "core": 0,
+   "penumbra": 88,
+   "tdc_artery_peak": 640,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "h202009090638",
+   "core": 0,
+   "penumbra": 4,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "1857802",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "V18407592",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "K07236193",
+   "core": 0,
+   "penumbra": 409,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 6,
+   "tdc_vein_peak": 400,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "P08606033",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "03356216",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 420,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0002679769",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 480,
+   "tdc_artery_time": 25,
+   "tdc_vein_peak": 400,
+   "tdc_vein_time": 33
+},
+{
+   "patient_id": "06544580",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 740,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "06495132",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 580,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "C01132096",
+   "core": 0,
+   "penumbra": 13,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 580,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "06494582",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 700,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "0008248086",
+   "core": 0,
+   "penumbra": 305,
+   "tdc_artery_peak": 380,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "QG00040000",
+   "core": 0,
+   "penumbra": 223,
+   "tdc_artery_peak": 480,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 660,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "0004421313",
+   "core": 24,
+   "penumbra": 64,
+   "tdc_artery_peak": 500,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 800,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "0009084147",
+   "core": 6,
+   "penumbra": 68,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 27,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 35
+},
+{
+   "patient_id": "06492312",
+   "core": 0,
+   "penumbra": 21,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 460,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "J02554240",
+   "core": 0,
+   "penumbra": 97,
+   "tdc_artery_peak": 180,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 32
+},
+{
+   "patient_id": "K04878334",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 16
+},
+{
+   "patient_id": "06495162",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 440,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "K02304484",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "0009064097",
+   "core": 0,
+   "penumbra": 154,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 30,
+   "tdc_vein_peak": 660,
+   "tdc_vein_time": 36
+},
+{
+   "patient_id": "0005143700",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 480,
+   "tdc_vein_time": 30
+},
+{
+   "patient_id": "605427",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 600,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 700,
+   "tdc_vein_time": 35
+},
+{
+   "patient_id": "06543416",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 60,
+   "tdc_artery_time": 26,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 34
+},
+{
+   "patient_id": "0001383603",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "D00492898",
+   "core": 15,
+   "penumbra": 352,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "06520390",
+   "core": 0,
+   "penumbra": 36,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "J00884916",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "H2009101948",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "06537737",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "1757906",
+   "core": 0,
+   "penumbra": 131,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 460,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "JR1010424",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "06393870",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 560,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "2435538",
+   "core": 21,
+   "penumbra": 118,
+   "tdc_artery_peak": 440,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "H03500258",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 460,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 720,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "2485522",
+   "core": 0,
+   "penumbra": 8,
+   "tdc_artery_peak": 380,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 580,
+   "tdc_vein_time": 18
+},
+{
+   "patient_id": "QG00057162",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 16
+},
+{
+   "patient_id": "J05466940",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 140,
+   "tdc_artery_time": 4,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 12
+},
+{
+   "patient_id": "6015205534",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 32
+},
+{
+   "patient_id": "P04183571",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 440,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "0003605299",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "K0178827X",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "06262341",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "0000902388",
+   "core": 31,
+   "penumbra": 101,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "06417248",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 360,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "06240201",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 450,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "F501AFDFX",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 360,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "K00118864",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 460,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "783970",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 560,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 680,
+   "tdc_vein_time": 20
+},
+{
+   "patient_id": "1",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 290,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 400,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "2",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 305,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 320,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "3",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 440,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 660,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "4",
+   "core": 0,
+   "penumbra": 7,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 450,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "5",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 290,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 430,
+   "tdc_vein_time": 23
+},
+{
+   "patient_id": "6",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 460,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 840,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "7",
+   "core": 0,
+   "penumbra": 12,
+   "tdc_artery_peak": 270,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "8",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 160,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 410,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "9",
+   "core": 0,
+   "penumbra": 7,
+   "tdc_artery_peak": 250,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 29
+},
+{
+   "patient_id": "10",
+   "core": 0,
+   "penumbra": 224,
+   "tdc_artery_peak": 210,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 33
+},
+{
+   "patient_id": "11",
+   "core": 6,
+   "penumbra": 25,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 740,
+   "tdc_vein_time": 29
+},
+{
+   "patient_id": "12",
+   "core": 0,
+   "penumbra": 92,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 29
+},
+{
+   "patient_id": "13",
+   "core": 9,
+   "penumbra": 54,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 23
+},
+{
+   "patient_id": "14",
+   "core": 25,
+   "penumbra": 80,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "15",
+   "core": 32,
+   "penumbra": 184,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 480,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "16",
+   "core": 13,
+   "penumbra": 133,
+   "tdc_artery_peak": 305,
+   "tdc_artery_time": 25,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 31
+},
+{
+   "patient_id": "17",
+   "core": 0,
+   "penumbra": 87,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "18",
+   "core": 0,
+   "penumbra": 0,
+   "tdc_artery_peak": 460,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 840,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "19",
+   "core": 16,
+   "penumbra": 238,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 380,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "20",
+   "core": 0,
+   "penumbra": 183,
+   "tdc_artery_peak": 140,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 620,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "21",
+   "core": 0,
+   "penumbra": 178,
+   "tdc_artery_peak": 330,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 470,
+   "tdc_vein_time": 23
+},
+{
+   "patient_id": "22",
+   "core": 50,
+   "penumbra": 361,
+   "tdc_artery_peak": 470,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 580,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "23",
+   "core": 74,
+   "penumbra": 128,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 37
+},
+{
+   "patient_id": "24",
+   "core": 91,
+   "penumbra": 134,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 620,
+   "tdc_vein_time": 24
+},
+{
+   "patient_id": "25",
+   "core": 273,
+   "penumbra": 344,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 530,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "26",
+   "core": 246,
+   "penumbra": 346,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 25,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 34
+},
+{
+   "patient_id": "27",
+   "core": 252,
+   "penumbra": 421,
+   "tdc_artery_peak": 175,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 360,
+   "tdc_vein_time": 36
+},
+{
+   "patient_id": "28",
+   "core": 238,
+   "penumbra": 328,
+   "tdc_artery_peak": 350,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 560,
+   "tdc_vein_time": 36
+},
+{
+   "patient_id": "29",
+   "core": 272,
+   "penumbra": 269,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 640,
+   "tdc_vein_time": 34
+},
+{
+   "patient_id": "30",
+   "core": 92,
+   "penumbra": 79,
+   "tdc_artery_peak": 200,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 360,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "31",
+   "core": 332,
+   "penumbra": 365,
+   "tdc_artery_peak": 210,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 430,
+   "tdc_vein_time": 34
+},
+{
+   "patient_id": "32",
+   "core": 319,
+   "penumbra": 340,
+   "tdc_artery_peak": 330,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 530,
+   "tdc_vein_time": 31
+},
+{
+   "patient_id": "33",
+   "core": 218,
+   "penumbra": 293,
+   "tdc_artery_peak": 350,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "34",
+   "core": 74,
+   "penumbra": 79,
+   "tdc_artery_peak": 410,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "35",
+   "core": 0,
+   "penumbra": 18,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "36",
+   "core": 0,
+   "penumbra": 6,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 420,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "37",
+   "core": 0,
+   "penumbra": 4,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "38",
+   "core": 8,
+   "penumbra": 4,
+   "tdc_artery_peak": 180,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 440,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "39",
+   "core": 8,
+   "penumbra": 19,
+   "tdc_artery_peak": 270,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 390,
+   "tdc_vein_time": 25
+},
+{
+   "patient_id": "40",
+   "core": 0,
+   "penumbra": 15,
+   "tdc_artery_peak": 250,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 370,
+   "tdc_vein_time": 22
+},
+{
+   "patient_id": "41",
+   "core": 23,
+   "penumbra": 39,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 540,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "42",
+   "core": 23,
+   "penumbra": 38,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 20,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 23
+},
+{
+   "patient_id": "43",
+   "core": 0,
+   "penumbra": 10,
+   "tdc_artery_peak": 130,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 350,
+   "tdc_vein_time": 23
+},
+{
+   "patient_id": "44",
+   "core": 0,
+   "penumbra": 6,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 620,
+   "tdc_vein_time": 29
+},
+{
+   "patient_id": "45",
+   "core": 0,
+   "penumbra": 4,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 610,
+   "tdc_vein_time": 26
+},
+{
+   "patient_id": "46",
+   "core": 0,
+   "penumbra": 10,
+   "tdc_artery_peak": 180,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 500,
+   "tdc_vein_time": 33
+},
+{
+   "patient_id": "47",
+   "core": 103,
+   "penumbra": 270,
+   "tdc_artery_peak": 380,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 520,
+   "tdc_vein_time": 35
+},
+{
+   "patient_id": "48",
+   "core": 194,
+   "penumbra": 346,
+   "tdc_artery_peak": 410,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 600,
+   "tdc_vein_time": 28
+},
+{
+   "patient_id": "49",
+   "core": 117,
+   "penumbra": 226,
+   "tdc_artery_peak": 210,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 400,
+   "tdc_vein_time": 29
+},
+{
+   "patient_id": "50",
+   "core": 106,
+   "penumbra": 349,
+   "tdc_artery_peak": 80,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 190,
+   "tdc_vein_time": 42
+},
+{
+   "patient_id": "0008700493",
+   "core": 0,
+   "penumbra": 227,
+   "tdc_artery_peak": 315,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0001888601",
+   "core": 16,
+   "penumbra": 114,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008739940",
+   "core": 12,
+   "penumbra": 158,
+   "tdc_artery_peak": 310,
+   "tdc_artery_time": 14,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0007582662",
+   "core": 0,
+   "penumbra": 106,
+   "tdc_artery_peak": 350,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0007654645",
+   "core": 0,
+   "penumbra": 20,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 12,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0003131365",
+   "core": 47,
+   "penumbra": 115,
+   "tdc_artery_peak": 290,
+   "tdc_artery_time": 16,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0005996455",
+   "core": 0,
+   "penumbra": 64,
+   "tdc_artery_peak": 510,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0005034866",
+   "core": 39,
+   "penumbra": 305,
+   "tdc_artery_peak": 260,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008700230",
+   "core": 17,
+   "penumbra": 33,
+   "tdc_artery_peak": 440,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0002950581",
+   "core": 58,
+   "penumbra": 111,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 17,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008691167",
+   "core": 132,
+   "penumbra": 278,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 19,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "1447794",
+   "core": 21,
+   "penumbra": 138,
+   "tdc_artery_peak": 275,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008746164",
+   "core": 38,
+   "penumbra": 255,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 19,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0004224954",
+   "core": 0,
+   "penumbra": 209,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008679836",
+   "core": 76,
+   "penumbra": 99,
+   "tdc_artery_peak": 380,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008677777",
+   "core": 0,
+   "penumbra": 18,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "H1912150056",
+   "core": 11,
+   "penumbra": 41,
+   "tdc_artery_peak": 410,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0,
+   "exculde": "True"
+},
+{
+   "patient_id": "2273202",
+   "core": 0,
+   "penumbra": 82,
+   "tdc_artery_peak": 220,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008670401",
+   "core": 36,
+   "penumbra": 118,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 17,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008708244",
+   "core": 5,
+   "penumbra": 87,
+   "tdc_artery_peak": 550,
+   "tdc_artery_time": 27,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008690675",
+   "core": 0,
+   "penumbra": 234,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0004893210",
+   "core": 10,
+   "penumbra": 186,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 33,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008690995",
+   "core": 30,
+   "penumbra": 96,
+   "tdc_artery_peak": 480,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "1344091",
+   "core": 0,
+   "penumbra": 53,
+   "tdc_artery_peak": 580,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0004280572",
+   "core": 11,
+   "penumbra": 48,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 27,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008706603",
+   "core": 3,
+   "penumbra": 101,
+   "tdc_artery_peak": 0,
+   "tdc_artery_time": 0,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0006023812",
+   "core": 10,
+   "penumbra": 78,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008681999",
+   "core": 0,
+   "penumbra": 128,
+   "tdc_artery_peak": 480,
+   "tdc_artery_time": 19,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008686504",
+   "core": 7,
+   "penumbra": 54,
+   "tdc_artery_peak": 460,
+   "tdc_artery_time": 19,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0004992567",
+   "core": 26,
+   "penumbra": 119,
+   "tdc_artery_peak": 400,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0001758482",
+   "core": 0,
+   "penumbra": 52,
+   "tdc_artery_peak": 125,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008442828",
+   "core": 8,
+   "penumbra": 464,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 26,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008708249",
+   "core": 41,
+   "penumbra": 342,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 31,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008557929",
+   "core": 13,
+   "penumbra": 186,
+   "tdc_artery_peak": 430,
+   "tdc_artery_time": 17,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008690650",
+   "core": 14,
+   "penumbra": 255,
+   "tdc_artery_peak": 490,
+   "tdc_artery_time": 15,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008101844",
+   "core": 0,
+   "penumbra": 13,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008430398",
+   "core": 0,
+   "penumbra": 70,
+   "tdc_artery_peak": 230,
+   "tdc_artery_time": 23,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008655846",
+   "core": 0,
+   "penumbra": 110,
+   "tdc_artery_peak": 430,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "900924",
+   "core": 53,
+   "penumbra": 141,
+   "tdc_artery_peak": 320,
+   "tdc_artery_time": 24,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008690781",
+   "core": 4,
+   "penumbra": 77,
+   "tdc_artery_peak": 420,
+   "tdc_artery_time": 21,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008706523",
+   "core": 0,
+   "penumbra": 100,
+   "tdc_artery_peak": 280,
+   "tdc_artery_time": 17.5,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008741439",
+   "core": 78,
+   "penumbra": 230,
+   "tdc_artery_peak": 610,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008683445",
+   "core": 0,
+   "penumbra": 105,
+   "tdc_artery_peak": 300,
+   "tdc_artery_time": 28,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0004307406",
+   "core": 23,
+   "penumbra": 106,
+   "tdc_artery_peak": 380,
+   "tdc_artery_time": 26,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008706584",
+   "core": 0,
+   "penumbra": 203,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 19,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0005697194",
+   "core": 0,
+   "penumbra": 109,
+   "tdc_artery_peak": 180,
+   "tdc_artery_time": 19,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008704523",
+   "core": 42,
+   "penumbra": 536,
+   "tdc_artery_peak": 240,
+   "tdc_artery_time": 34.5,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0008731350",
+   "core": 0,
+   "penumbra": 220,
+   "tdc_artery_peak": 360,
+   "tdc_artery_time": 22,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "H201911051242",
+   "core": 0,
+   "penumbra": 112,
+   "tdc_artery_peak": 520,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+},
+{
+   "patient_id": "0006798806",
+   "core": 52,
+   "penumbra": 112,
+   "tdc_artery_peak": 340,
+   "tdc_artery_time": 18,
+   "tdc_vein_peak": 0,
+   "tdc_vein_time": 0
+}
+]
